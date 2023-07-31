@@ -1,7 +1,7 @@
 # Empora
 command-line program that validates a US address against the following API and outputs either the corrected address or "Invalid Address"
 
-I used two ways to solutions to compute the solution for the above solution.
+I used two solutions to compute the solution for the above solution.
 
 Solution One:
 used 'curl' library for HTTP request, since it's more efficient and has the capacity to handle less complexity.
