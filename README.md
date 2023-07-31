@@ -1,7 +1,7 @@
 # Empora
-command-line program that validates a US address against the following API and outputs either the corrected address or "Invalid Address"
+Command-line program that validates a US address against the following API and outputs either the corrected address or "Invalid Address"
 
-I used two solutions to compute the solution for the above solution.
+I used two solutions to compute the solution for the above solution. I used C++ for this solution and defined a function that would be able to solve any API key. I could have also used python for this since we don't have to write boiler plate code to handle HTTPS requests in Python. 
 
 Solution One:
 used 'curl' library for HTTP request, since it's more efficient and has the capacity to handle less complexity.
